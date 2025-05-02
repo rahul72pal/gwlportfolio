@@ -4,7 +4,7 @@ const Experience = () => {
   const [experienceList, setExperienceList] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:5000/api/experiences")
+    fetch("https://gwlportfolio.onrender.com/api/experiences")
       .then((res) => res.json())
       .then((data) => {
         setExperienceList(data);

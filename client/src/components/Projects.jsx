@@ -6,7 +6,7 @@ const Projects = () => {
   useEffect(() => {
     const fetchProjects = async () => {
       try {
-        const res = await fetch('http://localhost:5000/api/projects');
+        const res = await fetch('https://gwlportfolio.onrender.com/api/projects');
         const data = await res.json();
         if (res.ok) {
           setProjects(data);

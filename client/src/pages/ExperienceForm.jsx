@@ -27,7 +27,7 @@ const ExperienceForm = () => {
     const handleSubmit = async (e) => {
       e.preventDefault();
       try {
-        const res = await fetch('http://localhost:5000/api/experiences', {
+        const res = await fetch('https://gwlportfolio.onrender.com/api/experiences', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
