@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "role": "Front end developer intern",
+    "organisation": "Ubitech solutions",
+    "startDate": "july 2023,",
+    "endDate": " December 2023,",
+    "location": "onsite",
+    "experiences": [
+      "Developed responsive web pages", 
+       "interactive features using HTML, CSS, and JavaScript."
+    ],
+    "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHjGZ_0wAwDHyiaL5iWcaAhnJ2B2mlxzYsNQ&s"
+  },
+  {
+    "id": 2,
+    "role": "Front end developer intern",
+    "organisation": "Ubitech solutions",
+    "startDate": "july 2023,",
+    "endDate": " December 2023,",
+    "location": "onsite",
+    "experiences": [
+      "Developed responsive web pages", 
+       "interactive features using HTML, CSS, and JavaScript."
+    ],
+    "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHjGZ_0wAwDHyiaL5iWcaAhnJ2B2mlxzYsNQ&s"
+  }
+]

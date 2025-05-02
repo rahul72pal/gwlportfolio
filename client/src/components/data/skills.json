@@ -1,0 +1,54 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "TypeScript",
+    "imageSrc": "skills/typescript.png"
+  },
+  {
+    "title":"React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title":"Node JS",
+    "imageSrc": "skills/nodejs.png"
+  },
+  {
+    "title":"MYSQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title":  "Tailwind",
+    "imageSrc": "skills/Tailwind.png"
+  },
+  {
+    "title":  "Material Ui",
+    "imageSrc": "skills/Material.png"
+  },
+  {
+    "title":  "MONGODB",
+    "imageSrc": "skills/mongo-db.png"
+  },
+  {
+    "title":  "Express JS",
+    "imageSrc": "skills/express-js.png"
+  },
+  {
+    "title":  "NEXT JS",
+    "imageSrc": "skills/nextjs.webp"
+  }
+ 
+ 
+  
+
+]
