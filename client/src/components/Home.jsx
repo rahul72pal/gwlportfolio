@@ -10,7 +10,8 @@ const Home = () => {
       strings: [
         "Welcome to my profile",
         "My Name is Rahul Pal",
-        "I'm Full-stack developer",
+        "I'm Fullstack developer",
+        "I'm MERN Stack developer",
         "I'm Frontend developer",
         "I'm backend developer",
       ],
