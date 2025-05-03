@@ -1,9 +1,11 @@
 import React, { useEffect, useState } from "react";
+import toast from "react-hot-toast";
 
 const Experience = () => {
   const [experienceList, setExperienceList] = useState([]);
 
   useEffect(() => {
+    const toastId = toast.loading("Wait a moment...");
     fetch("https://gwlportfolio.onrender.com/api/experiences")
       .then((res) => res.json())
       .then((data) => {
@@ -12,6 +14,7 @@ const Experience = () => {
       .catch((err) => {
         console.error("Failed to fetch experiences:", err);
       });
+      toast.dismiss(toastId);
   }, []);
 
   return (

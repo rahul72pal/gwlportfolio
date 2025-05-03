@@ -13,7 +13,7 @@ const Home = () => {
         "I'm Fullstack developer",
         "I'm MERN Stack developer",
         "I'm Frontend developer",
-        "I'm backend developer",
+        "I'm Backend developer",
       ],
       typeSpeed: 50,
       backSpeed: 50,
