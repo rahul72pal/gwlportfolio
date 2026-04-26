@@ -1,12 +1,42 @@
 [
-  
   {
-    "key": 3,
-    "title": "React Recipe",
-    "imageSrc": "https://images-cdn.ubuy.co.in/65b90ce08df623359f0b13c3-wooden-recipe-book-white-color-print.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://recipe-website-pink.vercel.app/",
-    "source": "https://github.com/AarnaRajawat/Recipe-website"
+    "id": 1,
+    "title": "AI Assistance Interviewer",
+    "description": "AI-powered mock interview platform with custom interview generation and intelligent feedback system. Practice coding, system design, and behavioral rounds with real-time AI evaluation.",
+    "tech": ["Next.js", "TypeScript", "Firebase", "Generative AI"],
+    "demo": "https://github.com/rahul72pal",
+    "source": "https://github.com/rahul72pal",
+    "imageSrc": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&q=80",
+    "category": "AI"
+  },
+  {
+    "id": 2,
+    "title": "AI Resume Reviewer",
+    "description": "ATS score analyzer that highlights missing keywords and provides detailed resume improvement suggestions powered by Generative AI. Boost your resume's job match rate instantly.",
+    "tech": ["React", "Node.js", "Express", "Generative AI"],
+    "demo": "https://github.com/rahul72pal",
+    "source": "https://github.com/rahul72pal",
+    "imageSrc": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=600&q=80",
+    "category": "AI"
+  },
+  {
+    "id": 3,
+    "title": "75 Days Challenge Craft",
+    "description": "Challenge building platform where users can create customized challenges with daily tasks, track progress, and build consistent habits over time.",
+    "tech": ["React", "Node.js", "MongoDB", "Express"],
+    "demo": "https://todo-frontend-chi-jade.vercel.app/",
+    "source": "https://github.com/rahul72pal/TodoFrontend",
+    "imageSrc": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
+    "category": "Fullstack"
+  },
+  {
+    "id": 4,
+    "title": "Study Notion",
+    "description": "Course selling platform connecting students and teachers. Teachers create and monetize courses while students browse, purchase, and learn through a seamless LMS experience.",
+    "tech": ["React", "Tailwind CSS", "Node.js", "MongoDB"],
+    "demo": "https://react-tailwind-starter-pack.vercel.app",
+    "source": "https://github.com/rahul72pal/ReactTailwindStarterPack",
+    "imageSrc": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=80",
+    "category": "Fullstack"
   }
- 
 ]

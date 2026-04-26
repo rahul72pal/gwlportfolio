@@ -1,28 +1,60 @@
 [
   {
-    "id": 1,
-    "role": "Front end developer intern",
-    "organisation": "Ubitech solutions",
-    "startDate": "july 2023,",
-    "endDate": " December 2023,",
-    "location": "onsite",
+    "id": 4,
+    "role": "Software Developer Engineer (SDE)",
+    "organisation": "75way Technologies Pvt. Ltd.",
+    "startDate": "June 2025",
+    "endDate": "Present",
+    "location": "Onsite",
     "experiences": [
-      "Developed responsive web pages", 
-       "interactive features using HTML, CSS, and JavaScript."
+      "Built healthcare, e-commerce, and investment platforms from scratch",
+      "Developed booking systems, dashboards, and admin panels with full CRUD",
+      "Implemented AWS S3 file upload pipeline and Zoho API integration",
+      "Reduced API costs by 90% using Redis caching strategies",
+      "Optimized Mongoose queries and improved frontend rendering performance"
     ],
-    "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHjGZ_0wAwDHyiaL5iWcaAhnJ2B2mlxzYsNQ&s"
+    "imageSrc": "https://media.designrush.com/agencies/239040/conversions/75way-Technologies-logo-profile-webp.webp"
+  },
+  {
+    "id": 3,
+    "role": "Full Stack Developer",
+    "organisation": "A2Developers",
+    "startDate": "Dec 2024",
+    "endDate": "June 2025",
+    "location": "Remote",
+    "experiences": [
+      "Built a multi-school ERP system supporting 10,000+ students",
+      "Implemented bulk student import, automated fee collection, and notifications",
+      "Generated PDF report cards, receipts, and ID card ZIPs dynamically",
+      "Integrated Razorpay payment gateway for seamless fee transactions",
+      "Reduced manual administrative work by 90–95% across client schools"
+    ],
+    "imageSrc": "https://content.jdmagicbox.com/v2/comp/varanasi/z3/0542px542.x542.250528204019.s7z3/catalogue/a2-develapors-sigra-road-varanasi-software-companies-mz79u4mx39-250.jpg"
   },
   {
     "id": 2,
-    "role": "Front end developer intern",
-    "organisation": "Ubitech solutions",
-    "startDate": "july 2023,",
-    "endDate": " December 2023,",
-    "location": "onsite",
+    "role": "MERN Stack Teaching Assistance",
+    "organisation": "Stealth Startup",
+    "startDate": "Aug 2024",
+    "endDate": "Dec 2024",
+    "location": "Remote (WHO)",
     "experiences": [
-      "Developed responsive web pages", 
-       "interactive features using HTML, CSS, and JavaScript."
+      "Collaborated with students and faculty to support academic programs and mentor over 5,000 students in MERN Full Stack development",
+      "Contributed to technical projects while helping students master complex concepts"
     ],
-    "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHjGZ_0wAwDHyiaL5iWcaAhnJ2B2mlxzYsNQ&s"
+    "imageSrc": "https://pbs.twimg.com/profile_images/1588996653498900481/KwPcKaWg_200x200.jpg"
+  },
+  {
+    "id": 1,
+    "role": "Frontend Developer Intern",
+    "organisation": "NTG Infotech Solutions",
+    "startDate": "March 2024",
+    "endDate": "April 2024",
+    "location": "Onsite, Gwalior",
+    "experiences": [
+      "Developed responsive web pages with HTML, CSS, and JavaScript",
+      "Built interactive UI features improving user experience across 3 products"
+    ],
+    "imageSrc": "https://media.licdn.com/dms/image/v2/D4D0BAQERgfVFsifYig/company-logo_200_200/company-logo_200_200/0/1705751566175/ntggroup_logo?e=2147483647&v=beta&t=SRcuqhHhLAyTtof1jhJVQD5AtIC2JUToFP-9hlURUL0"
   }
 ]
