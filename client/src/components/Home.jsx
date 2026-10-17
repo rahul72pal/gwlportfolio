@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from "react";
 import Typed from "typed.js";
 
-import profileImg from "./data/IMG_1288(1) (4) (1) (1).jpg";
+import profileImg from "./data/Friendly 3D Portrait on Purple Gradient (1).png";
 import resumePdf from "./data/RahulPalFebResume.pdf";
 
 
